@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Crypto Info</string>
+
+    <string name="symbols_template">%s / %s</string>
+    <string name="last_update_template">Время последнего изменения: %s</string>
+
 </resources>
