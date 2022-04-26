@@ -3,5 +3,10 @@
 
     <string name="symbols_template">%s / %s</string>
     <string name="last_update_template">Время последнего изменения: %s</string>
+    <string name="text_price">Цена:</string>
+    <string name="text_min_per_day">Минимум за день:</string>
+    <string name="text_max_per_day">Максимум за день:</string>
+    <string name="text_last_trade">Последняя сделка:</string>
+    <string name="text_was_updated">Обновлено:</string>
 
 </resources>
