@@ -1,11 +1,10 @@
 package com.example.cryptoinfo.utils
 
-import android.provider.ContactsContract
 import java.sql.Timestamp
 import java.text.SimpleDateFormat
 import java.util.*
 
-fun convertTimestampToTime(timestamp : Long?): String {
+fun convertTimestampToTime(timestamp: Long?): String {
     if (timestamp == null) return ""
     val stamp = Timestamp(timestamp * 1000)
     val date = Date(stamp.time)
